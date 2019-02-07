@@ -1,2 +1,5 @@
 # robjpar.github.io
-Creating a personal website on GitHub Pages is super easy
+A personal website created on GitHub Pages.
+
+### How to use
+Access the deployed website though this link [robertjpar](https://robjpar.github.io).
