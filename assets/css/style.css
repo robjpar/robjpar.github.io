@@ -105,12 +105,18 @@ nav a {
 
 }
 
+p a {
+    color: #777777;
+    text-decoration: none;
+
+}
+
 nav a:first-child {
     border-left: none;
 
 }
 
-nav a:hover {
+nav a:hover, p a:hover {
     color: #80d6b6;
 
 }
