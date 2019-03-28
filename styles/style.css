@@ -1,5 +1,10 @@
 /* Styling customization */
 
+/* Hide the scroll bar */
+body::-webkit-scrollbar {
+  width: 0 !important
+}
+
 header {
   padding: 156px 0 100px;
 }
