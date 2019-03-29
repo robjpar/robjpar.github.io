@@ -12,3 +12,15 @@ header {
 section {
   padding: 100px 0 80px;
 }
+
+.profile-img {
+  width: 150px;
+  opacity: 0.9
+}
+
+.portfolio-img {
+  height: 250px;
+  width: 100%;
+  display: block;
+  opacity: 0.9
+}
