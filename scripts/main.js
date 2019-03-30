@@ -22,3 +22,8 @@ $('body').scrollspy({
   target: '#mainNav',
   offset: 56
 });
+
+// Set the minimum height of the sections so that they fill out the whole
+// viewport
+$('header').css('min-height', $(window).height());
+$('section').css('min-height', $(window).height());
