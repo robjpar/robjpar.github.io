@@ -2,7 +2,7 @@
 
 /* Hide the scroll bar */
 body::-webkit-scrollbar {
-  width: 0 !important
+  width: 0 !important;
 }
 
 header {
@@ -15,12 +15,12 @@ section {
 
 .profile-img {
   width: 150px;
-  opacity: 0.9
+  opacity: 0.9;
 }
 
 .portfolio-img {
   height: 250px;
   width: 100%;
   display: block;
-  opacity: 0.9
+  opacity: 0.9;
 }
