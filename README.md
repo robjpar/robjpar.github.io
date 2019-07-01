@@ -1,8 +1,6 @@
 # robjpar.github.io
 
-## Description
-
-A portfolio website created on GitHub Pages.
+A portfolio website created with HTML, JavaScript, and CSS/Bootstrap. Hosted on GitHub Pages.
 
 ## How to use
 
