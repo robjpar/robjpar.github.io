@@ -1,2 +1,7 @@
+title: Robert J. Paruch
+description: Welcome to My Portfolio
+url: "https://robjpar.github.io/"
+author: Robert J. Paruch
+
 plugins:
   - jekyll-seo-tag
