@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://robjpar.github.io/</loc>
+  <lastmod>2019-08-28T02:11:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/docs/Resume-RJP.pdf</loc>
+  <lastmod>2019-08-28T02:11:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/click-just-once/</loc>
+  <lastmod>2019-06-11T07:32:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/gif-via/</loc>
+  <lastmod>2019-07-10T11:24:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/rps-multiplayer/</loc>
+  <lastmod>2019-07-03T15:53:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/gif-tastic/</loc>
+  <lastmod>2019-07-05T20:35:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/trivia-game/</loc>
+  <lastmod>2019-07-03T15:33:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/crystals-collector-game/</loc>
+  <lastmod>2019-07-03T15:28:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/gif-via/stats.html</loc>
+  <lastmod>2019-07-10T11:24:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/gif-via/opener.html</loc>
+  <lastmod>2019-07-10T11:24:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://robjpar.github.io/gif-via/index.html</loc>
+  <lastmod>2019-07-10T11:24:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
